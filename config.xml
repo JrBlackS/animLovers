@@ -1,8 +1,8 @@
 {
 	"config": [{
 		"splash_image": "https://1.bp.blogspot.com/-y1ghCjhk51w/XvmhA2XgdwI/AAAAAAAAAN0/_AbihRNv_ukUfM93RCAZf-2pD6_uvilyQCLcBGAsYHQ/s1600/20200629_150313.png",
-		"host": "https://dl.tehkotak.online",
-		"exp_host": "https://dl.tehkotak.online",
+		"host": "https://web.i59400f.xyz",
+		"exp_host": "https://web.i59400f.xyz",
 		"main_host": "https://raw.githubusercontent.com/ntah/animlovers/master",
 		"info": "0",
 		"info_message": "Beta test rilis",
@@ -22,12 +22,12 @@
 		"adsvideo": "0",
 		"adsvideo_start": "0",
 		"adsvideo_end": "0",
-		"MainActivity": "inmobi",
-		"DetailActivity": "appnext",
+		"MainActivity": "",
+		"DetailActivity": "",
 		"LainnyaActivity": "startapp",
 		"EpisodeActivity": "startapp",
-		"VideoPlayActivity": "unity",
-		"OtherActivity": "unity"
+		"VideoPlayActivity": "",
+		"OtherActivity": ""
 	}]
 }
 /*ads startapp, appnext, inmobi, unity */
